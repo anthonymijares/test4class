@@ -1,0 +1,5 @@
+step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
+paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,bimetallic-effigy-spoon,0.5,0.5,1,,What is the purpose of this spoon?,Religious purposes,,,,,,,,
+2,bimetallic-effigy-spoon,0.5063273707985972,0.2821586682395291,4.584866220735787,,is the spoon made of gold or something else?,"Something else, due to the gold color fading around it's corners and eyes ",,,,,,,,
+3,bimetallic-effigy-spoon,0.49203748126149877,0.8723040262150658,5.501839464882943,,Why is the tip worn down?,Perhaps this is the part that was most used to either scoop or eat with since it is a spoon!,,,,,,,,
